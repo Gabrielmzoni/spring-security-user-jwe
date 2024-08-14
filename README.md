@@ -44,7 +44,7 @@ Overwrite the `key.private` and `key.public` properties in application.propertie
 2. to run the project with preloaded fake data: 
    1. `mvn spring-boot:run -Dspring-boot.run.arguments=--userjwe.enablefakedata=true`
    2. When running this command the project will load 10 fake users into the database and print the user email and password in the console. 
-   <br/> Then can be used ti login in the endpoint `/users/login`
+   <br/> Then can be used to login in the endpoint `/users/login`
    3. ![img_1.png](img_1.png)
 3. to execute tests: 
    1. `mvn test`
@@ -72,9 +72,6 @@ The other endpoints are public and can be accessed without authentication.
 1. `mvn spring-boot:run -Dspring-boot.run.arguments=--userjwe.enablefakedata=true`
 2. When running the project passing the property `userjwe.enablefakedata=true` will be loaded 10 fake users into the database and print its data in the console.
 3. ![img_1.png](img_1.png)
-
-
-
 
 
 ### 4. Access the Swagger UI
