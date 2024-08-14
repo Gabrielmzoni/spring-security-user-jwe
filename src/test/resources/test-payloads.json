@@ -1,0 +1,102 @@
+{
+  "VALID_USER_TO_REGISTER": {
+    "name": "John Doe Dutton",
+    "email": "john.dutton@example.com",
+    "password": "password123",
+    "phone": "17991255252",
+    "secretPhrase": "My High School Teacher name",
+    "secretAnswer": "Freddie Bauch"
+  },
+  "VALID_USER_TO_REGISTER_2": {
+    "name": "Javier B. Hinds",
+    "email": "javierb@example.com",
+    "password": "password123",
+    "phone": "17911556699",
+    "secretPhrase": "My first pet name",
+    "secretAnswer": "Nemo"
+  },
+  "INVALID_USER_FIELDS": {
+    "name": "John",
+    "email": "john.doe@",
+    "phone": "179115566991111111",
+    "secretPhrase": "What ?",
+    "secretAnswer": "11"
+  },
+  "VALID_USER_3": {
+    "name": "Robert sants",
+    "email": "robert@example.com",
+    "password": "password123",
+    "phone": "17911556677",
+    "secretPhrase": "My High School Teacher name",
+    "secretAnswer": "Harrison Patel"
+  },
+  "VALID_USER_3_CHANGED_EMAIL": {
+    "name": "Robert sants",
+    "email": "robert2@example.com",
+    "password": "password123",
+    "phone": "17911556677",
+    "secretPhrase": "My High School Teacher name",
+    "secretAnswer": "Harrison Patel"
+  },
+  "VALID_LOGIN": {
+    "email": "james@gmail.com",
+    "password": "james123"
+  },
+  "VALID_USER_DATA_TO_UPDATE": {
+    "name": "James Albert Jones",
+    "phone": "17996558545",
+    "email": "jamesaj@gmail.com",
+    "secretPhrase": "What is my favorite color ? ",
+    "secretAnswer": "yellow"
+  },
+  "VALID_LOGIN_5": {
+    "email": "william@gmail.com",
+    "password": "william123"
+  },
+  "INVALID_USER_DATA_TO_UPDATE": {
+    "name": "will",
+    "phone": "11997",
+    "email": "will",
+    "secretPhrase": "What",
+    "secretAnswer": "a"
+  },
+  "VALID_EMAIL_1": {
+    "email": "john@gmail.com"
+  },
+  "INVALID_EMAIL": {
+    "email": "john44444@gmail.com"
+  },
+  "CHANGE_PASSWORD": {
+    "email": "john@gmail.com",
+    "password": "pass123456789"
+  },
+  "VALID_LOGIN_3": {
+    "email": "maria@gmail.com",
+    "password": "maria123"
+  },
+  "DELETE_ACCOUNT_SUCCESS": {
+    "email": "maria@gmail.com",
+    "password": "maria123"
+  },
+  "VALID_LOGIN_2": {
+    "email": "john@gmail.com",
+    "password": "john123"
+  },
+  "INVALID_LOGIN_2_WRONG_PASS": {
+    "email": "john@gmail.com",
+    "password": "1234"
+  },
+  "INVALID_LOGIN_2_WRONG_USER": {
+    "email": "jo@gmail.com",
+    "password": "john123"
+  },
+  "INVALID_TOKEN": {
+    "email": "william@gmail.com",
+    "password": "william123",
+    "otp": "112233"
+  },
+  "DELETE_ACCOUNT_WRONG_PASS": {
+    "email": "william@gmail.com",
+    "password": "william1234"
+  }
+}

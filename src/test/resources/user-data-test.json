@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Maria",
+    "email": "maria@gmail.com",
+    "password": "maria123",
+    "phone": "17997848858",
+    "secretPhrase": "my grandmother's name",
+    "secretAnswer": "Amelia"
+  },
+  {
+    "name": "John",
+    "email": "john@gmail.com",
+    "password": "john123",
+    "phone": "17974898485",
+    "secretPhrase": "my grandfather's name",
+    "secretAnswer": "Richard"
+  },
+  {
+    "name": "Mario",
+    "email": "mario@gmail.com",
+    "password": "mario123",
+    "phone": "17997489844",
+    "secretPhrase": "The name of my first pet",
+    "secretAnswer": "Peanut"
+  },
+  {
+    "name": "James",
+    "email": "james@gmail.com",
+    "password": "james123",
+    "phone": "11991123322",
+    "secretPhrase": "the teacher I liked the most",
+    "secretAnswer": "Bernard"
+  },
+  {
+    "name": "William",
+    "email": "william@gmail.com",
+    "password": "william123",
+    "phone": "16991123322",
+    "secretPhrase": "when I got a computer as a gift",
+    "secretAnswer": "20201001"
+  }
+]
