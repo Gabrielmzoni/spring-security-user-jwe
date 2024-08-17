@@ -69,11 +69,6 @@ The other endpoints are public and can be accessed without authentication.
 
 #### When using the `/users/login` endpoint, the returned JWE token should be included in the request headers for any subsequent authenticated requests.
 
-1. `mvn spring-boot:run -Dspring-boot.run.arguments=--userjwe.enablefakedata=true`
-2. When running the project passing the property `userjwe.enablefakedata=true` will be loaded 10 fake users into the database and print its data in the console.
-3. ![img_1.png](img_1.png)
-
-
 ### 4. Access the Swagger UI
 Visit the Swagger UI at [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) to explore the API documentation.
 
